@@ -113,7 +113,8 @@ Isso iniciará o download do modelo, deixando-o disponível para uso dentro do c
 
 No seu terminal aparecerá algo assim:
 
-[imagem do container llamma 3 em execucao]
+![terminal_llama](https://github.com/user-attachments/assets/8cbfa3f3-2b41-455a-8ad3-939968373d89)
+
 
 ---
 
