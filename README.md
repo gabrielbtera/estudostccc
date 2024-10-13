@@ -545,6 +545,11 @@ updateCurrentPrompt(chunk: string) {
 
 Esses trechos permitem o processamento incremental das respostas, atualizando o chat em tempo real.
 
+Front Rodando:
+
+![interface](https://github.com/user-attachments/assets/e1571714-21d4-4857-a93f-40be1345c8e6)
+
+
 ## Conclusão
 
 Esse tutorial apresentou um guia detalhado para configurar uma aplicação de Recuperação Aumentada por Geração (RAG) on-premise, utilizando Llama3-8b, MongoDB e uma GPU Nvidia. Passamos por todas as etapas necessárias, desde a configuração da GPU com os drivers NVIDIA, execução do Ollama com suporte a GPU, configuração do MongoDB com Docker Compose, processamento e inserção de documentos PDF no banco de dados, até a execução do backend assíncrono em Python e a interface Angular. Seguindo os passos propostos, você terá um ambiente completo e funcional para experimentação e desenvolvimento de aplicações RAG.
